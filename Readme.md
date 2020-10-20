@@ -4,7 +4,7 @@
 https://www.htl-leonding.at/schueler/organisation/termine/
 
 ## Tests und Schularbeiten
-https://github.com/dklewein/Elternabend2020/blob/main/Examinations.pdf
+https://github.com/dklewein/Elternabend2020/blob/main/Examinations%20(2).pdf
 
 ## Gegenstände und Lehrkräfte 
 - BOBW: Apollonio

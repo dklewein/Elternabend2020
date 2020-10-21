@@ -6,6 +6,8 @@ https://www.htl-leonding.at/schueler/organisation/termine/
 ## Tests und Schularbeiten
 https://github.com/dklewein/Elternabend2020/blob/main/Examinations%20(2).pdf
 
+--> Unterschriften eines Erziehungsberechtigten auf Test und Schularbeiten in der ersten Klasse verpflichtend!
+
 ## Gegenstände und Lehrkräfte 
 - BOBW: Apollonio
 - NWP: Hofer
@@ -21,6 +23,7 @@ https://github.com/dklewein/Elternabend2020/blob/main/Examinations%20(2).pdf
 - CABS: Kaser
 - RK: Rammer
 - RWBW: Kaiser
+- BSPK: Andraschko, Fallmann-Rauppach
 
 ## Sprechstunden
 https://www.htl-leonding.at/kontakt/lehrer-innen/
@@ -50,6 +53,19 @@ vom Zugpersonal des verspäteten Zuges oder bis zum Folgetag später im Internet
 - Vorlage der Entschuldigungen ist eine zeitnahe Bringschuld des/der Schüler/in. Innerhalb von einer Woche nach der Rückkehr in die Schule müssen die Abwesenheitszeiten in die Entschuldigungsliste eingetragen, von den Eltern unterschrieben und dem KV vorgelegt werden.
 
 
+## Sonstiges
+- Elternverein hat Kopierkarte für 100€ gesponsert
+- Klassenpate: Firma MIC
+- Sportwoche im zweiten Jahr
+- Freifach Business-Englisch ab Zweiter
+- Fernbleiben vom Unterricht: 1 Stunde beim Lehrer, 1 Tag beim KV, > 1 Tag beim Direktor, > 1 Woche Bildungsdirektion
+- Ist Schüler krank müssen Eltern zum abholen benachrichtigt werden
+- Turnbefreiung nur duch Schularzt
+- Anwesenheit praktischer Unterricht mindestens 80%
+- Verständigungspflicht bei Änderung von wichtigen Stammdaten(Adresse, Erziehungsberechtigung,  Telefonnummer, E-Mail usw.)
+- Unterricht früher verlassen: möglich sind 10 Minuten, Eltern müssen ansuchen
+- Eltern bitte gelegentliche die Kontrolle am PC überprüfen
+- Wechsel, z.B. Polytechnikum bis Ende Dezember möglich
 
 
 

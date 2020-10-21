@@ -28,6 +28,9 @@ https://www.htl-leonding.at/kontakt/lehrer-innen/
 ## Stundenplan
 https://github.com/dklewein/Elternabend2020/blob/main/Stundenplan_1CHIF.pdf
 
+Der Stundenplan ist online unter https://mese.webuntis.com/WebUntis/?school=htbla%20linz%20leonding#/basic/main zu finden.
+!!! Sie können sich mit den Zugangsdaten ihres Kindes einloggen und somit den aktuellen Stundenplan sowie die Fehlstunden sehen !!! 
+
 ## Abwesenheiten
 ### Allgemeines
 - Als entschuldigte Stunden gelten krankheitsbedingte Abwesenheit und Arztbesuche.
@@ -38,6 +41,9 @@ vom Zugpersonal des verspäteten Zuges oder bis zum Folgetag später im Internet
 
 - Vorhersehbare Abwesenheiten müssen im Vorhinein mit dem Klassenvorstand abgestimmt werden.
 - Dauerausnahmen wegen schlechter öffentlicher Verkehrsanbindung sind mit dem KV abzustimmen.
+
+- §45 SchUG ab 1. 9. 2018
+(5) Wenn ein Schüler einer mittleren oder höheren Schule länger als eine Woche oder fünf nicht zusammenhängende Schultage oder 30 Unterrichtsstunden im Unterrichtsjahr dem Unterricht fernbleibt, ohne das Fernbleiben zu rechtfertigen und auch auf schriftliche Aufforderung hin eine Mitteilung binnen einer Woche nicht eintrifft, so gilt der Schüler als vom Schulbesuch abgemeldet
 
 ### Ablauf
 - Am ersten Tag der Abwesenheit bitte vor 8:00 Uhr im Sekretariat anrufen.
